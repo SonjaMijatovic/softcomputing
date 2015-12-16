@@ -1,5 +1,7 @@
 Faculty of Technical Sciences
-Soft Computing
+
+Soft Computing 15/16
+
 Sonja Mijatović RA148/2012
 
 #Android Step Counter
